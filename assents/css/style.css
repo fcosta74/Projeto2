@@ -44,12 +44,14 @@ header .middle {
 }
 
 header button{
-    border-radius: 0.4rem;
+    border-radius: 5px;
     background-color: DeepSkyBlue;
-    padding: 8px;
-    border: 0;
+    padding: 8px 5px;
+    border: 1px solid lightblue;
     cursor: pointer;
     color: #fff;
+    width: 130px;
+    text-align: center;
 }
 h3{
     color: #fff;
