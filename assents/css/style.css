@@ -125,4 +125,15 @@ label {
     height: 35px;
     margin-top: 0;
 }
+@media (max-width: 768px) {
+    .container {
+        grid-template-columns: 1fr;
+
+    }
+
+    .illustration {
+        display: none;
+    }
+
+}
 
